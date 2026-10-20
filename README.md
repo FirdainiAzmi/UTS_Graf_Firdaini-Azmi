@@ -1,5 +1,4 @@
 # UTS_Graf_Firdaini-Azmi
-# UTS Graf Sains Data: Rekomendasi Item dengan Neo4j (RetailRocket)
 
 **Mata kuliah:** Graf Sains Data
 **Nama:** Firdaini Azmi
